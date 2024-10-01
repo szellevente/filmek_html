@@ -1,0 +1,25 @@
+li{
+    background-image: href="H:\webprogramozás\gyak\kép\oscar1-removebg-preview.png";
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    
+}
+ body{
+    background-image:url(hátér/filmstrip-7714683_1280.webp);
+    zoom: 150%;
+ }
+
+ h2{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ h3{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+ }
